@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @s-mdhaffar
+- 👋 Hi, I’m Sami Mdhaffar
 - 👀 I’m interested in Web development
 - 🌱 I’m currently learning VueJS
 - 💞️ I’m looking to collaborate on website projects
